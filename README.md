@@ -41,7 +41,7 @@ Build an interactive dashboard to explore pricing trends, brand popularity, mile
 
 ### 1️⃣ Executive Overview  
 KPI summary for total listings, average price, most popular brands, and cities.  
-![Executive Overview](Screenshots/overview.png)  
+OLX Used Car Market Dashboard Power BI Project/Screenshots/Executive Summary.png
 
 ### 2️⃣ Brand & Model Insights  
 Top-listed brands/models and their average prices.  
