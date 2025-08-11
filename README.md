@@ -39,29 +39,29 @@ Build an interactive dashboard to explore pricing trends, brand popularity, mile
 
 ## 📊 Dashboard Pages & Key Visuals  
 
-### 1️⃣ Executive Overview  
-KPI summary for total listings, average price, most popular brands, and cities.  
-OLX Used Car Market Dashboard Power BI Project/Screenshots/Executive Summary.png
+### 🏁 Executive Overview  
+High-level KPIs for total listings, average price, and most popular brands/cities.  
+![Executive Overview](OLX%20Used%20Car%20Market%20Dashboard%20Power%20BI%20Project/Screenshots/Executive%20Summary.png)
 
-### 2️⃣ Brand & Model Insights  
+### 1️⃣ Brand & Model Insights  
 Top-listed brands/models and their average prices.  
-![Brand & Model Insights](screenshots/brand_model_insights.png)  
+![Brand & Model Insights](OLX%20Used%20Car%20Market%20Dashboard%20Power%20BI%20Project/Screenshots/Brands%20and%20Model%20Insights.png)  
 
-### 3️⃣ Price & Mileage Analysis  
+### 2️⃣ Price & Mileage Analysis  
 Relationship between mileage and price.  
-![Price & Mileage Analysis](screenshots/price_mileage_analysis.png)  
+![Price & Mileage Analysis](OLX%20Used%20Car%20Market%20Dashboard%20Power%20BI%20Project/Screenshots/Price%20and%20Model%20Insights.png)  
 
-### 4️⃣ Location-Based Insights  
+### 3️⃣ Location-Based Insights  
 City-level pricing and listing counts using maps and bar charts.  
-![Location Insights](screenshots/location_insights.png)  
+![Location Insights](OLX%20Used%20Car%20Market%20Dashboard%20Power%20BI%20Project/Screenshots/Local%20Based%20Insights.png)  
 
-### 5️⃣ Car Attributes  
+### 4️⃣ Car Attributes  
 Distribution by fuel type, transmission, and assembly.  
-![Car Attributes](screenshots/car_attributes.png)  
+![Car Attributes](OLX%20Used%20Car%20Market%20Dashboard%20Power%20BI%20Project/Screenshots/Car%20Attributes.png)  
 
-### 6️⃣ Car Trends  
+### 5️⃣ Car Trends  
 Historical listing and pricing patterns.  
-![Car Trends](screenshots/car_trends.png)  
+![Car Trends](OLX%20Used%20Car%20Market%20Dashboard%20Power%20BI%20Project/Screenshots/Time%20Trend.png)  
 
 ---
 
